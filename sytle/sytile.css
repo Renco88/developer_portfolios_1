@@ -1,0 +1,19 @@
+.btn-primary{
+ 
+ 
+}
+
+/* banner related sytle */
+
+.header{
+    background-color: #FFFFFF;
+    background-image: url('../images/banner/banner2.png');
+    background-repeat: no-repeat;
+    }
+
+.banner{
+    padding: 150px 10px 200px 700px ;
+    display: flex;
+    width: 1600px;
+    height: 809px;
+    }
