@@ -17,3 +17,45 @@
     width: 1600px;
     height: 809px;
     }
+
+
+    /* main related sytle */
+    .about{
+        display: flex;
+        background-image: url('../images/gradient2.png');
+        background-repeat: no-repeat;
+        padding: 150px 200px ;
+        
+    }
+
+    .my-plans{
+        text-align: center;
+    }
+    .ecom{
+        display: flex;
+        padding: 150px;
+        justify-content: space-between;
+    }
+   
+
+    .call-now{
+        background-image: url('../images/watch.png');
+        background-repeat: no-repeat;
+        width: 1140px;
+        height: 300px;
+    }
+
+    /* footer related sytle */
+
+    .footer{
+        display: flex;
+        width: 1600px;
+        height: 577px;
+        background-color: black;
+        color: #F8F8F8;
+        justify-content: space-evenly;
+        
+    }
+    .icon{
+        display: flex;
+    }
