@@ -1,5 +1,11 @@
 .btn-primary{
- 
+    border-radius: 5px;
+     background: #FD6E0A;
+     border: 0;
+     color: white;
+     padding: 21px 25px 20px 26px;
+     font-size: 20px;
+     font-weight: 600;
  
 }
 
@@ -16,20 +22,58 @@
     display: flex;
     width: 1600px;
     height: 809px;
+    position: relative;
+    top: 216;
+    left: 845;
+    right: 230;
+    bottom: 365;
+    text-align: right;
+    }
+
+    .banner-grating{
+        font-size: 65px;
+        font-style: normal;
+        font-weight: 700;
+        line-height: normal;
+        text-align: right;
+    }
+    .banner-title{
+        padding-top: 14px;
+        padding-bottom: 32px;
     }
 
 
     /* main related sytle */
     .about{
         display: flex;
-        background-image: url('../images/gradient2.png');
-        background-repeat: no-repeat;
-        padding: 150px 200px ;
+    }
+    .about-img{
+        position: relative;
+        top: 10px;
+        left: 77px;
+        background-size: auto;
         
     }
 
+    .about-right{
+        position: relative;
+        top: 250px;
+        left: 200px;
+    }
+    list-item{
+        justify-content: space-between;
+    }
+
+
     .my-plans{
         text-align: center;
+        position: relative;
+        top: 100px;
+        font-size: 35px;
+        font-style: normal;
+        font-weight: 700;
+        line-height: normal;
+        
     }
     .ecom{
         display: flex;
@@ -43,6 +87,7 @@
         background-repeat: no-repeat;
         width: 1140px;
         height: 300px;
+        background-position: center ;
     }
 
     /* footer related sytle */
