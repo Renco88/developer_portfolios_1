@@ -1,1 +1,1 @@
-[This is live site link](https://renco88.github.io/developer_portfolios_1/)
+[This is site link](https://renco88.github.io/developer_portfolios_1/)
