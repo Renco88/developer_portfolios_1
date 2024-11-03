@@ -1,1 +1,1 @@
-[This is site link](https://renco88.github.io/developer_portfolios_1/)
+[This is site link](https://helpful-kashata-9bb54e.netlify.app/)
